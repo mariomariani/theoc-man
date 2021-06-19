@@ -1,4 +1,88 @@
 .App {
+  width: 900px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.title {
+  font-size: 80px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  margin-bottom: 30px;
+}
+
+.score {
+  font-size: 90px;
+  position: absolute;
+  right: 50px;
+  font-style: italic;
+}
+
+.score span {
+  display: block;
+  color: red;
+  width: 200px;
+  border: 1px solid blue;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.board {
+  width:  800px;
+}
+
+.square {
+  border: 1px solid blue;
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.pacman {
+  display: none;
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  margin: 15px;
+}
+
+.pacman img {
+  height: 100%;
+  width: 100%;
+}
+
+.ArrowUp {
+  transform: rotate(270deg);
+}
+
+.ArrowLeft {
+  transform: rotate(180deg);
+}
+
+.ArrowDown {
+  transform: rotate(90deg);
+}
+
+.food {
+  display: none;
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  margin: 15px;
+}
+
+.food img {
+  height: 100%;
+  width: 100%;
+}
+
+.active {
+  display: block;
+}
+
+/* ----------------- */
+
+.App {
   text-align: center;
 }
 
@@ -14,7 +98,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
