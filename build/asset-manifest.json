@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1e2323c.chunk.css",
+    "main.js": "/static/js/main.3dbaebf7.chunk.js",
+    "main.js.map": "/static/js/main.3dbaebf7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c89e8edd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c89e8edd.js.map",
+    "static/js/2.18776a0e.chunk.js": "/static/js/2.18776a0e.chunk.js",
+    "static/js/2.18776a0e.chunk.js.map": "/static/js/2.18776a0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1e2323c.chunk.css.map": "/static/css/main.e1e2323c.chunk.css.map",
+    "static/js/2.18776a0e.chunk.js.LICENSE.txt": "/static/js/2.18776a0e.chunk.js.LICENSE.txt",
+    "static/media/Goomba.aa51a53c.png": "/static/media/Goomba.aa51a53c.png",
+    "static/media/Mario8bitspulando.4e2da112.png": "/static/media/Mario8bitspulando.4e2da112.png",
+    "static/media/Star.af7a71b0.png": "/static/media/Star.af7a71b0.png",
+    "static/media/SuperMarioWorld-Mario&Luigi.c3439cec.png": "/static/media/SuperMarioWorld-Mario&Luigi.c3439cec.png",
+    "static/media/SuperMarioWorld-okidoki.6ba83e67.jpeg": "/static/media/SuperMarioWorld-okidoki.6ba83e67.jpeg",
+    "static/media/SuperMariomaker8bits.a62a08b4.png": "/static/media/SuperMariomaker8bits.a62a08b4.png",
+    "static/media/SuperMarioprofundidade.fd71e295.jpeg": "/static/media/SuperMarioprofundidade.fd71e295.jpeg",
+    "static/media/ghost.2040c700.png": "/static/media/ghost.2040c700.png",
+    "static/media/hamburguer.39e04d28.gif": "/static/media/hamburguer.39e04d28.gif",
+    "static/media/ifood.480810bc.jpeg": "/static/media/ifood.480810bc.jpeg",
+    "static/media/mario.d7606782.png": "/static/media/mario.d7606782.png",
+    "static/media/mario64.1504c9c6.txt": "/static/media/mario64.1504c9c6.txt",
+    "static/media/mario8bit.ceed30bb.gif": "/static/media/mario8bit.ceed30bb.gif",
+    "static/media/megaman.31f06f6f.gif": "/static/media/megaman.31f06f6f.gif",
+    "static/media/megamanrun.6df4dbda.gif": "/static/media/megamanrun.6df4dbda.gif",
+    "static/media/paperMariopixelado.9e6ed4fd.png": "/static/media/paperMariopixelado.9e6ed4fd.png",
+    "static/media/pink-ghost.c6f9c1ad.png": "/static/media/pink-ghost.c6f9c1ad.png",
+    "static/media/superMario8bits3d.ec075792.jpeg": "/static/media/superMario8bits3d.ec075792.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c89e8edd.js",
+    "static/js/2.18776a0e.chunk.js",
+    "static/css/main.e1e2323c.chunk.css",
+    "static/js/main.3dbaebf7.chunk.js"
+  ]
+}
