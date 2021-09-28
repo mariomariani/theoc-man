@@ -165,7 +165,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <div className="title">THEOC-MAN</div>
+      <div className="title">THEC-MAN</div>
       <div className="score">
         Score <span>{score}</span>
       </div>
